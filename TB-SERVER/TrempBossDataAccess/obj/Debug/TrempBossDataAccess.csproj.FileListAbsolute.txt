@@ -1,0 +1,70 @@
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossDataAccess\obj\Debug\TrempBossDataAccess.pdb

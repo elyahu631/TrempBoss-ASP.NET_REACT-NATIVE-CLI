@@ -1,0 +1,493 @@
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.xml
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp12\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.pdb
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp13\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Identity.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.Data.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Identity.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.Data.xml
+C:\Users\Eliahu Anavi\Desktop\asp 14\TrempBossAPI\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Identity.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.Data.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\AutoMapper.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Identity.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\FirebaseAdmin.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Buffers.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Memory.Data.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Text.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\bin\Debug\Unity.Container.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 15\TrempBossAPI\TrempBossBLL\obj\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossBLL.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossBLL.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\AutoMapper.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Identity.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\EntityFramework.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\FirebaseAdmin.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Buffers.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Memory.Data.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Memory.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Text.Json.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Web.Http.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Unity.Container.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossDataAccess.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\TrempBossDataAccess.dll.config
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\AutoMapper.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Identity.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Azure.Security.KeyVault.Secrets.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\EntityFramework.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\FirebaseAdmin.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Buffers.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Memory.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Memory.Data.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Text.Json.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Web.Http.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\bin\Debug\Unity.Container.pdb
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\obj\Debug\TrempBossBLL.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\obj\Debug\TrempBossBLL.dll
+C:\Users\Eliahu Anavi\Desktop\asp 16\TB-SERVER\TrempBossBLL\obj\Debug\TrempBossBLL.pdb

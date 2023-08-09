@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Tremp_Boss_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Tremps">
+          <Key>
+            <PropertyRef Name="tremp_id" />
+          </Key>
+          <Property Name="tremp_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="tremp_type" Type="bit" Nullable="false" />
+          <Property Name="create_date" Type="datetime" Nullable="false" />
+          <Property Name="tremp_time" Type="datetime" Nullable="false" />
+          <Property Name="from_route" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="to_route" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="note" Type="nvarchar(max)" />
+          <Property Name="seats_amount" Type="int" Nullable="false" />
+          <Property Name="is_full" Type="bit" Nullable="false" />
+          <Property Name="deleted" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User_Tremps">
+          <Key>
+            <PropertyRef Name="tremp_id" />
+            <PropertyRef Name="user_id" />
+            <PropertyRef Name="created_ride" />
+          </Key>
+          <Property Name="tremp_id" Type="int" Nullable="false" />
+          <Property Name="user_id" Type="int" Nullable="false" />
+          <Property Name="created_ride" Type="bit" Nullable="false" />
+          <Property Name="group_id" Type="int" Nullable="false" />
+          <Property Name="is_confirmed" Type="varchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="user_Id" />
+          </Key>
+          <Property Name="user_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="email" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="phone_number" Type="nvarchar" MaxLength="10" />
+          <Property Name="password" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="image_URL" Type="nvarchar(max)" />
+          <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="gender" Type="nvarchar" MaxLength="1" />
+          <Property Name="coins" Type="int" />
+          <Property Name="created_date" Type="datetime" Nullable="false" />
+          <Property Name="update_date" Type="datetime" Nullable="false" />
+          <Property Name="last_login_date" Type="datetime" />
+          <Property Name="deleted" Type="bit" Nullable="false" />
+          <Property Name="notification_token" Type="nvarchar(max)" />
+        </EntityType>
+        <Association Name="FK_group_tremps_tremps">
+          <End Role="Tremps" Type="Self.Tremps" Multiplicity="1" />
+          <End Role="User_Tremps" Type="Self.User_Tremps" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tremps">
+              <PropertyRef Name="tremp_id" />
+            </Principal>
+            <Dependent Role="User_Tremps">
+              <PropertyRef Name="tremp_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_group_tremps_users">
+          <End Role="Users" Type="Self.Users" Multiplicity="1" />
+          <End Role="User_Tremps" Type="Self.User_Tremps" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="user_Id" />
+            </Principal>
+            <Dependent Role="User_Tremps">
+              <PropertyRef Name="user_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="Proc_Add_Tremp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="user_id" Type="int" Mode="In" />
+          <Parameter Name="tremp_type" Type="bit" Mode="In" />
+          <Parameter Name="tremp_time" Type="datetime" Mode="In" />
+          <Parameter Name="from_route" Type="nvarchar" Mode="In" />
+          <Parameter Name="to_route" Type="nvarchar" Mode="In" />
+          <Parameter Name="note" Type="nvarchar(max)" Mode="In" />
+          <Parameter Name="seats_amount" Type="int" Mode="In" />
+        </Function>
+        <Function Name="Proc_Add_User_To_Tremp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="TrempId" Type="int" Mode="In" />
+          <Parameter Name="UserId" Type="int" Mode="In" />
+        </Function>
+        <Function Name="Proc_Approve_User_In_Tremp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="TrempId" Type="int" Mode="In" />
+          <Parameter Name="CreatorId" Type="int" Mode="In" />
+          <Parameter Name="UserId" Type="int" Mode="In" />
+          <Parameter Name="Approval" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="Proc_Delete_Tremp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="TrempId" Type="int" Mode="In" />
+          <Parameter Name="UserId" Type="int" Mode="In" />
+        </Function>
+        <Function Name="Proc_Get_Tremps" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="CreatorId" Type="int" Mode="In" />
+          <Parameter Name="TypeOfTremp" Type="bit" Mode="In" />
+          <Parameter Name="TrempTime" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="Proc_Get_User" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="Proc_Get_User_NotificationToken" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="UserId" Type="int" Mode="In" />
+        </Function>
+        <Function Name="Proc_Update_User" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="user_id" Type="int" Mode="In" />
+          <Parameter Name="email" Type="nvarchar" Mode="In" />
+          <Parameter Name="phone_number" Type="nvarchar" Mode="In" />
+          <Parameter Name="image_URL" Type="nvarchar(max)" Mode="In" />
+          <Parameter Name="first_name" Type="nvarchar" Mode="In" />
+          <Parameter Name="last_name" Type="nvarchar" Mode="In" />
+          <Parameter Name="gender" Type="nvarchar" Mode="In" />
+          <Parameter Name="notification_token" Type="nvarchar(max)" Mode="In" />
+          <Parameter Name="deleted" Type="bit" Mode="In" />
+        </Function>
+        <Function Name="Proc_User_Login" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Email" Type="varchar" Mode="In" />
+          <Parameter Name="UserId" Type="int" Mode="InOut" />
+        </Function>
+        <Function Name="Proc_User_Registration" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Email" Type="nvarchar" Mode="In" />
+          <Parameter Name="Password" Type="varchar(max)" Mode="In" />
+        </Function>
+        <EntityContainer Name="Tremp_Boss_DBModelStoreContainer">
+          <EntitySet Name="Tremps" EntityType="Self.Tremps" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User_Tremps" EntityType="Self.User_Tremps" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_group_tremps_tremps" Association="Self.FK_group_tremps_tremps">
+            <End Role="Tremps" EntitySet="Tremps" />
+            <End Role="User_Tremps" EntitySet="User_Tremps" />
+          </AssociationSet>
+          <AssociationSet Name="FK_group_tremps_users" Association="Self.FK_group_tremps_users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="User_Tremps" EntitySet="User_Tremps" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Tremp_Boss_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="user_Id" />
+          </Key>
+          <Property Name="user_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="phone_number" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="image_URL" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="gender" Type="String" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="coins" Type="Int32" />
+          <Property Name="created_date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="update_date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="deleted" Type="Boolean" Nullable="false" />
+          <Property Name="notification_token" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="last_login_date" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="User_Tremps" Relationship="Tremp_Boss_DBModel.FK_group_tremps_users" FromRole="User" ToRole="User_Tremps" />
+          <Property Name="first_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="last_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="Tremp_Boss_DBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Users" EntityType="Self.User" />
+          <FunctionImport Name="AddTremp" ReturnType="Collection(Int32)">
+            <Parameter Name="user_id" Mode="In" Type="Int32" />
+            <Parameter Name="tremp_type" Mode="In" Type="Boolean" />
+            <Parameter Name="tremp_time" Mode="In" Type="DateTime" />
+            <Parameter Name="from_root" Mode="In" Type="String" />
+            <Parameter Name="to_root" Mode="In" Type="String" />
+            <Parameter Name="note" Mode="In" Type="String" />
+            <Parameter Name="seats_amount" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="GetUserUnjoinedRides" ReturnType="Collection(Tremp_Boss_DBModel.GetUserUnjoinedRides_Result)">
+            <Parameter Name="group_id" Mode="In" Type="Int32" />
+            <Parameter Name="user_id" Mode="In" Type="Int32" />
+            <Parameter Name="is_offering_ride" Mode="In" Type="Boolean" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Get_User" ReturnType="Collection(Tremp_Boss_DBModel.Proc_Get_User_Result)">
+          <Parameter Name="id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Update_User">
+            <Parameter Name="user_id" Mode="In" Type="Int32" />
+            <Parameter Name="email" Mode="In" Type="String" />
+            <Parameter Name="phone_number" Mode="In" Type="String" />
+            <Parameter Name="image_URL" Mode="In" Type="String" />
+            <Parameter Name="first_name" Mode="In" Type="String" />
+            <Parameter Name="last_name" Mode="In" Type="String" />
+            <Parameter Name="gender" Mode="In" Type="String" />
+            <Parameter Name="notification_token" Mode="In" Type="String" />
+            <Parameter Name="deleted" Mode="In" Type="Boolean" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_User_Login">
+            <Parameter Name="Email" Mode="In" Type="String" />
+            <Parameter Name="UserId" Mode="InOut" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_User_Registration">
+            <Parameter Name="Email" Mode="In" Type="String" />
+            <Parameter Name="Password" Mode="In" Type="String" />
+          </FunctionImport>
+          <EntitySet Name="Tremps" EntityType="Tremp_Boss_DBModel.Tremp" />
+          <FunctionImport Name="Proc_Add_Tremp">
+            <Parameter Name="user_id" Mode="In" Type="Int32" />
+            <Parameter Name="tremp_type" Mode="In" Type="Boolean" />
+            <Parameter Name="tremp_time" Mode="In" Type="DateTime" />
+            <Parameter Name="from_route" Mode="In" Type="String" />
+            <Parameter Name="to_route" Mode="In" Type="String" />
+            <Parameter Name="note" Mode="In" Type="String" />
+            <Parameter Name="seats_amount" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Approve_User_In_Tremp">
+            <Parameter Name="TrempId" Mode="In" Type="Int32" />
+            <Parameter Name="CreatorId" Mode="In" Type="Int32" />
+            <Parameter Name="UserId" Mode="In" Type="Int32" />
+            <Parameter Name="Approval" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="Proce_Add_User_To_Tremp" ReturnType="Collection(Int32)">
+            <Parameter Name="TrempId" Mode="In" Type="Int32" />
+            <Parameter Name="UserId" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Delete_Tremp" ReturnType="Collection(Int32)">
+            <Parameter Name="TrempId" Mode="In" Type="Int32" />
+            <Parameter Name="UserId" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <EntitySet Name="User_Tremps" EntityType="Tremp_Boss_DBModel.User_Tremps" />
+          <AssociationSet Name="FK_group_tremps_tremps" Association="Tremp_Boss_DBModel.FK_group_tremps_tremps">
+            <End Role="Tremp" EntitySet="Tremps" />
+            <End Role="User_Tremps" EntitySet="User_Tremps" />
+          </AssociationSet>
+          <AssociationSet Name="FK_group_tremps_users" Association="Tremp_Boss_DBModel.FK_group_tremps_users">
+            <End Role="User" EntitySet="Users" />
+            <End Role="User_Tremps" EntitySet="User_Tremps" />
+          </AssociationSet>
+          <FunctionImport Name="GetUserNotificationToken" ReturnType="Collection(String)">
+            <Parameter Name="UserId" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Get_User_NotificationToken" ReturnType="Collection(String)">
+          <Parameter Name="UserId" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Get_Tremps" ReturnType="Collection(Tremp_Boss_DBModel.Proc_Get_Tremps_Result)">
+            <Parameter Name="CreatorId" Mode="In" Type="Int32" />
+            <Parameter Name="TypeOfTremp" Mode="In" Type="Boolean" />
+            <Parameter Name="TrempTime" Mode="In" Type="DateTime" />
+          </FunctionImport>
+          <FunctionImport Name="Proc_Add_User_To_Tremp" ReturnType="Collection(Int32)">
+            <Parameter Name="TrempId" Mode="In" Type="Int32" />
+            <Parameter Name="UserId" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="GetUserUnjoinedRides_Result">
+          <Property Type="Int32" Name="tremp_id" Nullable="false" />
+          <Property Type="DateTime" Name="tremp_time" Nullable="false" Precision="23" />
+          <Property Type="String" Name="from_root" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="to_root" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="note" Nullable="true" />
+          <Property Type="Int32" Name="seats_amount" Nullable="false" />
+        </ComplexType>
+        <ComplexType Name="Proc_Get_User_Result">
+          <Property Type="Int32" Name="User_Id" Nullable="false" />
+          <Property Type="String" Name="Email" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="Phone_Number" Nullable="true" MaxLength="10" />
+          <Property Type="String" Name="Password" Nullable="false" />
+          <Property Type="String" Name="image_url" Nullable="true" />
+          <Property Type="String" Name="First_Name" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="Last_Name" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="Gender" Nullable="true" MaxLength="1" />
+          <Property Type="Int32" Name="Coins" Nullable="true" />
+          <Property Type="DateTime" Name="created_date" Nullable="false" Precision="23" />
+        </ComplexType>
+        <EntityType Name="Tremp">
+          <Key>
+            <PropertyRef Name="tremp_id" />
+          </Key>
+          <Property Name="tremp_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="tremp_type" Type="Boolean" Nullable="false" />
+          <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="tremp_time" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="note" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="seats_amount" Type="Int32" Nullable="false" />
+          <Property Name="is_full" Type="Boolean" Nullable="false" />
+          <Property Name="deleted" Type="Boolean" Nullable="false" />
+          <Property Name="from_route" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="to_route" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="User_Tremps" Relationship="Tremp_Boss_DBModel.FK_group_tremps_tremps" FromRole="Tremp" ToRole="User_Tremps" />
+        </EntityType>
+        <EntityType Name="User_Tremps">
+          <Key>
+            <PropertyRef Name="tremp_id" />
+            <PropertyRef Name="user_id" />
+            <PropertyRef Name="created_ride" />
+          </Key>
+          <Property Name="tremp_id" Type="Int32" Nullable="false" />
+          <Property Name="user_id" Type="Int32" Nullable="false" />
+          <Property Name="created_ride" Type="Boolean" Nullable="false" />
+          <Property Name="group_id" Type="Int32" Nullable="false" />
+          <Property Name="is_confirmed" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Tremp" Relationship="Tremp_Boss_DBModel.FK_group_tremps_tremps" FromRole="User_Tremps" ToRole="Tremp" />
+          <NavigationProperty Name="User" Relationship="Tremp_Boss_DBModel.FK_group_tremps_users" FromRole="User_Tremps" ToRole="User" />
+        </EntityType>
+        <Association Name="FK_group_tremps_tremps">
+          <End Type="Tremp_Boss_DBModel.Tremp" Role="Tremp" Multiplicity="1" />
+          <End Type="Tremp_Boss_DBModel.User_Tremps" Role="User_Tremps" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tremp">
+              <PropertyRef Name="tremp_id" />
+            </Principal>
+            <Dependent Role="User_Tremps">
+              <PropertyRef Name="tremp_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_group_tremps_users">
+          <End Type="Tremp_Boss_DBModel.User" Role="User" Multiplicity="1" />
+          <End Type="Tremp_Boss_DBModel.User_Tremps" Role="User_Tremps" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="user_Id" />
+            </Principal>
+            <Dependent Role="User_Tremps">
+              <PropertyRef Name="user_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <ComplexType Name="Proc_Get_Tremps_Result">
+          <Property Type="Int32" Name="tremp_id" Nullable="false" />
+          <Property Type="Int32" Name="group_id" Nullable="false" />
+          <Property Type="Boolean" Name="tremp_type" Nullable="false" />
+          <Property Type="DateTime" Name="create_date" Nullable="false" Precision="23" />
+          <Property Type="DateTime" Name="tremp_time" Nullable="false" Precision="23" />
+          <Property Type="String" Name="from_route" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="to_route" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="note" Nullable="true" />
+          <Property Type="Int32" Name="seats_amount" Nullable="false" />
+          <Property Type="Int32" Name="creator_id" Nullable="false" />
+          <Property Type="String" Name="creator_first_name" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="creator_last_name" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="creator_image_url" Nullable="true" />
+          <Property Type="Int32" Name="hitchhikers_count" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Tremp_Boss_DBModelStoreContainer" CdmEntityContainer="Tremp_Boss_DBEntities">
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="Tremp_Boss_DBModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="last_login_date" ColumnName="last_login_date" />
+                <ScalarProperty Name="user_Id" ColumnName="user_Id" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="image_URL" ColumnName="image_URL" />
+                <ScalarProperty Name="gender" ColumnName="gender" />
+                <ScalarProperty Name="coins" ColumnName="coins" />
+                <ScalarProperty Name="created_date" ColumnName="created_date" />
+                <ScalarProperty Name="update_date" ColumnName="update_date" />
+                <ScalarProperty Name="deleted" ColumnName="deleted" />
+                <ScalarProperty Name="notification_token" ColumnName="notification_token" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Get_User" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_User">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="Tremp_Boss_DBModel.Proc_Get_User_Result">
+                <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Phone_Number" ColumnName="Phone_Number" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="image_url" ColumnName="image_url" />
+                <ScalarProperty Name="First_Name" ColumnName="First_Name" />
+                <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Coins" ColumnName="Coins" />
+                <ScalarProperty Name="created_date" ColumnName="created_date" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Update_User" FunctionName="Tremp_Boss_DBModel.Store.Proc_Update_User" />
+          <FunctionImportMapping FunctionImportName="Proc_User_Login" FunctionName="Tremp_Boss_DBModel.Store.Proc_User_Login" />
+          <FunctionImportMapping FunctionImportName="Proc_User_Registration" FunctionName="Tremp_Boss_DBModel.Store.Proc_User_Registration" />
+          <EntitySetMapping Name="Tremps">
+            <EntityTypeMapping TypeName="Tremp_Boss_DBModel.Tremp">
+              <MappingFragment StoreEntitySet="Tremps">
+                <ScalarProperty Name="to_route" ColumnName="to_route" />
+                <ScalarProperty Name="from_route" ColumnName="from_route" />
+                <ScalarProperty Name="deleted" ColumnName="deleted" />
+                <ScalarProperty Name="is_full" ColumnName="is_full" />
+                <ScalarProperty Name="seats_amount" ColumnName="seats_amount" />
+                <ScalarProperty Name="note" ColumnName="note" />
+                <ScalarProperty Name="tremp_time" ColumnName="tremp_time" />
+                <ScalarProperty Name="create_date" ColumnName="create_date" />
+                <ScalarProperty Name="tremp_type" ColumnName="tremp_type" />
+                <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Add_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Add_Tremp" />
+          <FunctionImportMapping FunctionImportName="Proc_Approve_User_In_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Approve_User_In_Tremp" />
+          <FunctionImportMapping FunctionImportName="Proc_Delete_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Delete_Tremp" />
+          <EntitySetMapping Name="User_Tremps">
+            <EntityTypeMapping TypeName="Tremp_Boss_DBModel.User_Tremps">
+              <MappingFragment StoreEntitySet="User_Tremps">
+                <ScalarProperty Name="is_confirmed" ColumnName="is_confirmed" />
+                <ScalarProperty Name="group_id" ColumnName="group_id" />
+                <ScalarProperty Name="created_ride" ColumnName="created_ride" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Get_User_NotificationToken" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_User_NotificationToken" />
+          <FunctionImportMapping FunctionImportName="Proc_Get_Tremps" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_Tremps">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="Tremp_Boss_DBModel.Proc_Get_Tremps_Result">
+                <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+                <ScalarProperty Name="group_id" ColumnName="group_id" />
+                <ScalarProperty Name="tremp_type" ColumnName="tremp_type" />
+                <ScalarProperty Name="create_date" ColumnName="create_date" />
+                <ScalarProperty Name="tremp_time" ColumnName="tremp_time" />
+                <ScalarProperty Name="from_route" ColumnName="from_route" />
+                <ScalarProperty Name="to_route" ColumnName="to_route" />
+                <ScalarProperty Name="note" ColumnName="note" />
+                <ScalarProperty Name="seats_amount" ColumnName="seats_amount" />
+                <ScalarProperty Name="creator_id" ColumnName="creator_id" />
+                <ScalarProperty Name="creator_first_name" ColumnName="creator_first_name" />
+                <ScalarProperty Name="creator_last_name" ColumnName="creator_last_name" />
+                <ScalarProperty Name="creator_image_url" ColumnName="creator_image_url" />
+                <ScalarProperty Name="hitchhikers_count" ColumnName="hitchhikers_count" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Add_User_To_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Add_User_To_Tremp" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

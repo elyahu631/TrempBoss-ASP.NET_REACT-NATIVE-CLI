@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Tremp_Boss_DBModelStoreContainer" CdmEntityContainer="Tremp_Boss_DBEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Tremp_Boss_DBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_login_date" ColumnName="last_login_date" />
+          <ScalarProperty Name="user_Id" ColumnName="user_Id" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="image_URL" ColumnName="image_URL" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="coins" ColumnName="coins" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="update_date" ColumnName="update_date" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="notification_token" ColumnName="notification_token" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Proc_Get_User" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_User">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Tremp_Boss_DBModel.Proc_Get_User_Result">
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone_Number" ColumnName="Phone_Number" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="image_url" ColumnName="image_url" />
+          <ScalarProperty Name="First_Name" ColumnName="First_Name" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Coins" ColumnName="Coins" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Proc_Update_User" FunctionName="Tremp_Boss_DBModel.Store.Proc_Update_User" />
+    <FunctionImportMapping FunctionImportName="Proc_User_Login" FunctionName="Tremp_Boss_DBModel.Store.Proc_User_Login" />
+    <FunctionImportMapping FunctionImportName="Proc_User_Registration" FunctionName="Tremp_Boss_DBModel.Store.Proc_User_Registration" />
+    <EntitySetMapping Name="Tremps">
+      <EntityTypeMapping TypeName="Tremp_Boss_DBModel.Tremp">
+        <MappingFragment StoreEntitySet="Tremps">
+          <ScalarProperty Name="to_route" ColumnName="to_route" />
+          <ScalarProperty Name="from_route" ColumnName="from_route" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="is_full" ColumnName="is_full" />
+          <ScalarProperty Name="seats_amount" ColumnName="seats_amount" />
+          <ScalarProperty Name="note" ColumnName="note" />
+          <ScalarProperty Name="tremp_time" ColumnName="tremp_time" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="tremp_type" ColumnName="tremp_type" />
+          <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Proc_Add_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Add_Tremp" />
+    <FunctionImportMapping FunctionImportName="Proc_Approve_User_In_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Approve_User_In_Tremp" />
+    <FunctionImportMapping FunctionImportName="Proc_Delete_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Delete_Tremp" />
+    <EntitySetMapping Name="User_Tremps">
+      <EntityTypeMapping TypeName="Tremp_Boss_DBModel.User_Tremps">
+        <MappingFragment StoreEntitySet="User_Tremps">
+          <ScalarProperty Name="is_confirmed" ColumnName="is_confirmed" />
+          <ScalarProperty Name="group_id" ColumnName="group_id" />
+          <ScalarProperty Name="created_ride" ColumnName="created_ride" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Proc_Get_User_NotificationToken" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_User_NotificationToken" />
+    <FunctionImportMapping FunctionImportName="Proc_Get_Tremps" FunctionName="Tremp_Boss_DBModel.Store.Proc_Get_Tremps">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Tremp_Boss_DBModel.Proc_Get_Tremps_Result">
+          <ScalarProperty Name="tremp_id" ColumnName="tremp_id" />
+          <ScalarProperty Name="group_id" ColumnName="group_id" />
+          <ScalarProperty Name="tremp_type" ColumnName="tremp_type" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="tremp_time" ColumnName="tremp_time" />
+          <ScalarProperty Name="from_route" ColumnName="from_route" />
+          <ScalarProperty Name="to_route" ColumnName="to_route" />
+          <ScalarProperty Name="note" ColumnName="note" />
+          <ScalarProperty Name="seats_amount" ColumnName="seats_amount" />
+          <ScalarProperty Name="creator_id" ColumnName="creator_id" />
+          <ScalarProperty Name="creator_first_name" ColumnName="creator_first_name" />
+          <ScalarProperty Name="creator_last_name" ColumnName="creator_last_name" />
+          <ScalarProperty Name="creator_image_url" ColumnName="creator_image_url" />
+          <ScalarProperty Name="hitchhikers_count" ColumnName="hitchhikers_count" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Proc_Add_User_To_Tremp" FunctionName="Tremp_Boss_DBModel.Store.Proc_Add_User_To_Tremp" />
+  </EntityContainerMapping>
+</Mapping>
