@@ -1,0 +1,102 @@
+{
+    "general": {
+        "title": "Tremp Boss",
+        "logout": "logout",
+        "profile": "Profile",
+        "addRide": "Add Ride",
+        "addTremp": "Add tremp",
+        "align": "left",
+        "coins": "Coins",
+        "settings":"Settings",
+        "CurrentLanguage":"Language",
+        "home":"Home",
+        "driver":"driver",
+        "hitchhiker":"hitchhiker",
+        "trempType":"Tremp Type",
+        "createdDate":"Created Date",
+        "rideTime":"Ride Time",
+        "creatorName":"Creator Name",
+        "from":"From",
+        "to":"To",
+        "seats":"Seats",
+        "seatsJoined": "Passengers joined",
+        "note": "Note",
+        "requestsAmount":"Requests amount",
+        "searchPlaceholder": "Search by from or to routes ...",
+        "route":"Route",
+        "firstName":"First Name",
+        "lastName":"Last Name",
+        "phoneNumber":"Phone Number",
+        "email":"Email",
+        "gender":"Gender",
+        "selectGender":"Select a gender",
+        "male":"Male",
+        "female":"female",
+        "cancel": "cancel",
+        "accept": "accept",
+        "update":"Update"
+
+
+
+    
+    },
+    "login": {
+        "login": "Login",
+        "greeting": "Hello, {name}!",
+        "insertMail": "Insert email",
+        "insertPassword": "Insert Password",
+        "rememberMe": "Remember me",
+        "ifNotRegistered": "If you are not registered -> Register",
+        "register": "Register",
+        "confirmPass": "Confirm password",
+        "ifRegistered": "If you are registered -> log in",
+        "enterEmail": "Please enter email address",
+        "enterPassword": "Please enter password",
+        "loadingUsers": "Please wait for users to load",
+        "showPassword": "To see password",
+        "hidePassword": "To hide password"
+    },
+    "addRide": {
+        "addTremp": "Add tremp",
+        "note": "note",
+        "addBtnText": "add",
+        "addDrive": "AddDrive",
+        "IsHitchhikerTitle":"Ask for tremp",
+        "IsDriverTitle":"Offer a ride",
+        "PickDate":"Pick date",
+        "PickTime":"Pick Time",
+        "rideRequests":"Ride Requests",
+        "rideOffers":"Ride Offers",
+        "pickLocation":"Pick location",
+        "pickOriginLocation":"Select origin",
+        "pickDestinationLocation":"Select a destination",
+        "askForSeatsAmount":"Requests seating for",
+        "seatsAvailable": "Seats Available"
+
+
+    },
+    "settings": {
+        "title": "Settings",
+        "cancel":"Cancel",
+        "confirmLanguageChange":"Are you sure you want to change the langauge to"
+
+    },
+
+    "drawer": {
+        "profile": "Profile",
+        "userRides": "My Rides",
+        "userTremps": "My Tremps",
+        "userRidesAndTremps": "My Ride and Tremps",
+        "addName": "Add Name",
+        "approvedRides":"My approved rides",
+        "approvedTremps":"My approved tremps"
+
+
+
+    },
+    "requests":{
+        "accept":"Accept",
+        "deny":"Not this time"
+    }
+
+}
