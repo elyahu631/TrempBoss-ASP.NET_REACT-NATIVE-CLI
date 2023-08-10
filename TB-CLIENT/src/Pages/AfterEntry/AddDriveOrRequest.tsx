@@ -61,28 +61,26 @@ export default function AddDriveOrRequest(props: any) {
     setText(fDate);
 
   }
-
   const onTimeChange = (event: any, selectedTime: any) => {
     if (event.type !== "set") {
       setShowTimePicker(false);
       return;
     }
-
-    const currentHour = selectedTime || date; // Assuming 'date' is defined elsewhere
-
-    // Extract hours and minutes from the selected time
-
+  
+    const currentHour = selectedTime || date;
+  
     const timeZoneOffset = currentHour.getTimezoneOffset();
-    // Adjust the selected time for the time zone offset
     const adjustedTime = new Date(currentHour.getTime() - timeZoneOffset * 60 * 1000);
-
+  
     setShowTimePicker(false);
     setTime(adjustedTime);
-
-    let formattedTime = currentHour.getHours() + ":" + currentHour.getMinutes();
+  
+    const formattedHour = currentHour.getHours().toString().padStart(2, '0'); 
+    const formattedMinutes = currentHour.getMinutes().toString().padStart(2, '0'); 
+    const formattedTime = `${formattedHour}:${formattedMinutes}`;
+  
     setHour(formattedTime);
   };
-
 
   // const handleTextChangeseats_amount = (newText: number) => {
   //   setSeatsAmount(newText);

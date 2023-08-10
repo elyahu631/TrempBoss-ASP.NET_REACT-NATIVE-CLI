@@ -17,6 +17,8 @@ export default function Requests({ route }) {
 
   // usersRideRequests, tremp_id, creator_id,
   const { Ride, Theme, LanguageWords, CurrentLanguage, } = route.params;
+  console.log("RideRideRideRideRideRideRideRideRideRideRideRideRideRideRideRideRideRideRideRide");
+  console.log(Ride);
   const { tremp_id, create_date, from_route, to_route, seats_amount, tremp_time, tremp_type } = Ride;
   const [isInAction, setIsInAction] = useState(false);
 

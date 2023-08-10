@@ -171,7 +171,7 @@ export const RidesContextProvider = ({ children }) => {
       return await response?.json();
 
     } catch (error) {
-      return {error : {message :error?.message}};
+      return { error: { message: error?.message } };
     }
   }
 
@@ -187,17 +187,14 @@ export const RidesContextProvider = ({ children }) => {
 
         },
       });
-      console.log(token);
 
       const resultjson = await response?.json()
-      console.log("responseresponseresponseresponsessss323232");
-      console.log(resultjson);
-      console.log("responseresponseresponseresponsessss323232");
+    
 
-      if (response.ok) {
-        return await response?.json();
+      if (resultjson?.status) {
+        return await resultjson;
       } else {
-        const errorResponse = await response.json();
+        const errorResponse = resultjson;
 
         return errorResponse?.error?.message;
       }
@@ -210,7 +207,7 @@ export const RidesContextProvider = ({ children }) => {
 
 
   return (
-    <rideContext.Provider value={{ rides, setRides, addRide, trempsByFilters, joinRide, userRides, UpdateApproveStatus, DeleteRide, GetUsersRequests ,userApprovedRides}}>
+    <rideContext.Provider value={{ rides, setRides, addRide, trempsByFilters, joinRide, userRides, UpdateApproveStatus, DeleteRide, GetUsersRequests, userApprovedRides }}>
       {children}
     </rideContext.Provider>
   );

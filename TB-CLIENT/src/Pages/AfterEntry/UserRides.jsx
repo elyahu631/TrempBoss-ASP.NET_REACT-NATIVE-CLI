@@ -49,17 +49,19 @@ export default function UserRides(props) {
 
 
 
-  // useEffect(() => {
-  //   const onFocus = async() => {
-  //     await getRides(true);
-  //     filterRides();
-  //   };
+  useEffect(() => {
+    const onFocus = async () => {
+      await getRides();
+      filterRides();
+    };
 
+    navigation.addListener('focus', onFocus);
 
-  //   navigation.addListener('focus', onFocus);
+    return () => {
+      navigation.removeListener('focus', onFocus);
+    };
+  }, [isDriver]); // Added isDriver as a dependency
 
-
-  // }, []);
   useEffect(() => {
     getRides();
     filterRides();
@@ -69,7 +71,7 @@ export default function UserRides(props) {
   const getRides = async () => {
     console.log(userLoggedIn.user.user_id);
     console.log(isDriver);
-    if (isLoading ) return;
+    if (isLoading) return;
     setIsLoading(true);
 
     const fetchOptions = {

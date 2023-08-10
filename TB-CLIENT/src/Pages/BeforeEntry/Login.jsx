@@ -151,7 +151,7 @@ export default function Login(props) {
   return (
     <View style={styles.container}>
 
-      <Text style={[styles.primaryColor]} variant="headlineLarge">{pageWords['login']}</Text>
+      <Text style={[styles.primaryColor , {fontWeight:'bold'}]} variant="headlineLarge">{pageWords['login']}</Text>
 
 
 

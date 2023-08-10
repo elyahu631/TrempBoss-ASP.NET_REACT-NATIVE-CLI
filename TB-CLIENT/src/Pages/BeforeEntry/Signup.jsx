@@ -51,8 +51,8 @@ export default function Sign_up(props) {
         'סיסמא חייבת להכיל לפחות אות קטנה אחת ומספר אחד'
       ),
     confirmPassword: Yup.string()
-      .oneOf([Yup.ref('password'), null], 'Passwords must match')
-      .required('Confirm Password is required'),
+      .oneOf([Yup.ref('password'), null], 'סיסמא חייבת להיות תואמת')
+      .required('שדה אימות סיסמא הוא חובה'),
   });
   
   
@@ -100,7 +100,7 @@ export default function Sign_up(props) {
   return (
 
     <View style={styles.container}>
-      <Text style={styles.primaryColor} variant="headlineLarge">{pageWords['register']}</Text>
+      <Text style={[styles.primaryColor,{fontWeight:'bold'}]} variant="headlineLarge">{pageWords['register']}</Text>
 
       <Formik
         initialValues={{

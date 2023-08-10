@@ -181,6 +181,15 @@ export default function Profile(props) {
         </TouchableOpacity>
         <View>
           <View style={{ flexDirection: 'row', gap: 30 }}>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.description}>{languageWords?.lastName}</Text>
+              <TextInput
+                value={lastName}
+                onChangeText={setLastName}
+                style={styles.input}
+                textColor={props.Theme.colors.text.primary}
+              />
+            </View>
 
             <View style={{ flex: 1 }}>
               <Text style={styles.description}>{languageWords?.firstName}</Text>
@@ -192,15 +201,6 @@ export default function Profile(props) {
               />
             </View>
 
-            <View style={{ flex: 1 }}>
-              <Text style={styles.description}>{languageWords?.lastName}</Text>
-              <TextInput
-                value={lastName}
-                onChangeText={setLastName}
-                style={styles.input}
-                textColor={props.Theme.colors.text.primary}
-              />
-            </View>
           </View>
 
           <View style={styles.descriptionContainer}>

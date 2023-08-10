@@ -68,7 +68,7 @@ function ThemeContextProvider({ children }: { children: ReactNode; }) {
         background: '#a4a4a4',
       },
       headerBackground: '#ffffff',
-      background: '#f5f5dc ',
+      background: '#f5f5dc',
     },
     fonts: {
       regular: 'Roboto-Regular',
